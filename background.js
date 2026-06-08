@@ -1,4 +1,4 @@
-// background.js — runs as the persistent background script
+// background.js — runs as a persistent background script (MV3 non-SW for Firefox)
 
 const ALL_COLORS = ["LightCoral", "LightSalmon", "LightPink", "LightSalmon", "PeachPuff", "Khaki", "Thistle",
     "Violet", "LightGreen", "YellowGreen", "Turquoise", "LightSkyBlue", "Wheat", "Peru",

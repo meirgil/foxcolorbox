@@ -16,7 +16,7 @@
     },
     "background": {
         "scripts": [
-            "popup.js"
+            "background.js"
         ]
     },
     "browser_specific_settings": {
